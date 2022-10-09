@@ -108,7 +108,7 @@ Below are the following features that are capable for the app:
 
 ## Authors
 
-- **Guillermo Sanchez** - [membriux](https://github.com/membriux)
+- **Francisco Lira** - [Frankie-Lira](https://github.com/frankie-lira)
   - Project Lead
   - Initial design/planning
   - MVC Architecture design + implementation
@@ -116,10 +116,8 @@ Below are the following features that are capable for the app:
   - Parse + MongoDB Integration
   - Messaging/Chat feature
   - Search capabilities
-- **German Flores** - [Germantv](https://github.com/Germantv)
   - MapKit Integration
   - Image Upload capability
-- **Mark Falcone** - [markFalcone](https://github.com/markFalcone)
   - AutoLayout
   - Lottie Animation Integration
   - SkeletonView Integration
